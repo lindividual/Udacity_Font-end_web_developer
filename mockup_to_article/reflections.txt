@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+这次我就直接用中文来回答啦 :)
+  * 学会了html文档的“元素（element）”“标签（tag）”“树形结构（tree、parent、child、sibling）”这些概念，还学到了常用的标签<p>、<h1>...<h4>、<em>、<strong>、<sup>、<sub>、<a>、<img>、<hr>、<br>...，学会了到mdn去查html的reference。
+  * html理解起来感觉还是比较简单的，写起来也简单，有个编辑器和浏览器就可以了。
+  * 难的地方是有时候同样的效果可以用不同的tag来实现,比如说<b>和<strong>，都是加粗的样式。资料中有提到“语义化”这个概念，这个是我比较难理解的地方。
+  * 遇到问题了学会去查参考资料，算是用到了problem solving strategy吧 :)
