@@ -1,0 +1,64 @@
+/* add your CSS here */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    /* offset-x | offset-y | blur radius | color */
+    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.3);
+}
+
+div {
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 3px; 
+}
+
+.outside {
+    width: 300px;
+    padding: 18px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.3);
+    margin: 50px;
+    background-color: rgb(240, 240, 230)
+}
+
+h3 {
+    font-size: 2em;
+    margin-top: 3px;
+    margin-bottom: 21px;
+}
+
+.info {
+    padding: 14px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+::selection {
+    background-color: rgb(250, 250, 0);
+}
+
+p {
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.interest {
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+    margin-bottom: 8px;
+    border-radius: 3px;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+li {
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+}
