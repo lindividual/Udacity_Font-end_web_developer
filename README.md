@@ -3,3 +3,4 @@ Learning Udacity's font-end web developer nanodegree
 
 * Mockup to article 2016.07.03
 * Animal trading cards 2016.07.03
+* Build a Portfolio Site
